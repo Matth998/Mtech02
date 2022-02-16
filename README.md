@@ -28,6 +28,7 @@ technology we seek to develop a social network that connects women developers wi
     <td align="center"><a href="https://github.com/Fernandak"><img style="border-radius: 50%;" src="https://i.imgur.com/CboTrCI.jpg" width="100px;" alt=""/><br /><sub><b>Fernanda Pereira</b></sub></a><br /><a href="https://github.com/Fernandak" title="GitHub Fernanda">👩🏽‍💻</a></td>
     <td align="center"><a href="https://github.com/leandrocasio"><img style="border-radius: 50%;" src="https://i.imgur.com/8AxDjSg.jpg" width="100px;" alt=""/><br /><sub><b>Leandro Casio</b></sub></a><br /><a href="https://github.com/leandrocasio" title="GitHub Leandro">👨🏻‍💻</a></td> 
     <td align="center"><a href="https://github.com/Marcosdalves"><img style="border-radius: 50%;" src="https://i.imgur.com/G2pkCaK.jpg" width="100px;" alt=""/><br /><sub><b>Marcos Alves</b></sub></a><br /><a href="https://github.com/Marcosdalves" title="GitHub Marcos">👨🏻‍💻</a></td>
+    <td align="center"><a href="https://github.com/leehfreitas"><img style="border-radius: 50%;" src="https://i.imgur.com/reONBdt.jpg" width="100px;" alt=""/><br /><sub><b>Leticia Freitas</b></sub></a><br /><a href="https://github.com/leehfreitas" title="GitHub Leh">👩🏻‍💻</a></td>
     
   </tr>
  
