@@ -1,6 +1,6 @@
 <h1> Integrating Project - MTech 👩‍💻 </h1>
 
-<img src= "https://i.imgur.com/xxOubDa.png"/>
+<div align = "center"> <img  src= "https://i.imgur.com/xxOubDa.png"/> </div>
 
 <h2> About the Project 👩‍💻</h2>
 
