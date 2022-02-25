@@ -1,4 +1,4 @@
-<h1> Integrating Project - MTech 👩🏻‍💻🧑🏽‍💻👩🏿‍💻 </h1> 
+<h1> Integrating Project - MTech  👩🏽‍💻👩🏽‍💻👩🏿‍💻👩‍💻👩🏻‍💻👩🏼‍💻 </h1> 
 
 <div align = "center"> <img  src= "https://i.imgur.com/xxOubDa.png"/> </div>
 
