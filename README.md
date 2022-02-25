@@ -1,8 +1,8 @@
-<h1> Integrating Project - MTech 👩‍💻 </h1>
+<h1> Integrating Project - MTech 👩🏻‍💻🧑🏽‍💻👩🏿‍💻 </h1> 
 
 <div align = "center"> <img  src= "https://i.imgur.com/xxOubDa.png"/> </div>
 
-<h2> About the Project 👩‍💻</h2>
+<h2> About the Project 💡 </h2>
 
 <p> In order to encourage actions aimed at gender equality, considering the insertion of women in the labor market and in
 technology we seek to develop a social network that connects women developers with different levels of experience and education to the world of technology. </p>
@@ -18,7 +18,20 @@ technology we seek to develop a social network that connects women developers wi
  
  </ul>
  
- <h2> Developers 👩‍💻👨‍💻</h2>
+ # Software and Tools used in this project 📚 </h2>
+
+  - [x] JAVA
+  - [x] MySQL
+  - [x] Spring Boot
+  - [x] Bootstrap
+  - [x] Angular
+  - [x] CSS
+  - [x] JavaScript
+  - [x] API - REST - CRUD
+  - [x] Git
+ 
+ 
+ <h2> Developers 🚀</h2>
  
 <table>
   <tr>
